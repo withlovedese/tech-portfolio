@@ -11,3 +11,14 @@ title: Black Shops Matter
 - [Here](https://youtu.be/RQSi5_Lzzu8) is a demo.
 
 ![BlackShopsMatter](./assets/BlackShopsMatter.png)
+
+
+---
+id: projects
+title: Six Feet Apart
+---
+
+- This website provides a good resoursce for the number of covid confirmed cases/deaths in your area. The map in the site allows you to search for the city or county you're interested in learning more about.
+- View the project [here](https://summer20-sps-16.uc.r.appspot.com/)
+- View the teams Github [here](https://github.com/Team-16-SPS-SM20/sps-group-project-team16)
+
