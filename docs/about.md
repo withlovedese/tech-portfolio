@@ -16,11 +16,11 @@ Let's talk about how we can make the world a better place! I am currently in Dur
 
 ## Current Role
 
-Grace Hopper Celebration Attendee
-Junior at Duke University
+- Grace Hopper Celebration Attendee
+- Junior at Duke University
 
 ## Social Media
 
-- Twitter
-- LinkedIn
-- GitHub
+- [Twitter](https://twitter.com/desemi_xo)
+- [LinkedIn](https://www.linkedin.com/in/adesemicelumaro/)
+- [GitHub](https://github.com/withlovedese)
