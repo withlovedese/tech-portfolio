@@ -15,7 +15,6 @@ title: Black Shops Matter
 
 
 # 6 Feet Apart
-==============
 
 - This website provides a good resoursce for the number of covid confirmed cases/deaths in your area. The map in the site allows you to search for the city or county you're interested in learning more about.
 - View the project [here.](https://summer20-sps-16.uc.r.appspot.com/)
