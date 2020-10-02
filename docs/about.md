@@ -3,27 +3,21 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+Hi there! Thank you for stopping by my page!
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
+My name is Adesemi Elumaro but my friends call me **Dese** (pronounced day-shay)! I was born here in the United States but have grown up in Nigeria (my home country), England, and India!
 
-Write it in first (I) or third (Your Name Here) person.
+I am currently a junior at Duke University majoring in Computer Science and minoring in Economics and Theater Studies! I am really interested in exploring how the intersection of technology, education, and business can help Nigeria and other developing countries play a larger role in the global economy!
 
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
+You can learn more about what organizations I'm involved with, my hobbies, etc. from my resumer [here](https://drive.google.com/file/d/12Zt1bIpjW0Er3GWj1aiM71Eu-W-UOqyd/view?usp=sharing)
+
+Let's talk about how we can make the world a better place! I am currently in Durham, NC.
+
 
 ## Current Role
 
 Grace Hopper Celebration Attendee
-
-## Recognition
-
-- 2020 Awesome Woman in Technology Award
+Junior at Duke University
 
 ## Social Media
 
