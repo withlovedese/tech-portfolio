@@ -1,14 +1,13 @@
 ---
 id: projects
-title: Projects
+title: Black Shops Matter
 ---
 
-Embed any notable projects in this page.
+- We built a Chrome extension to help shoppers be conscious of where they are buying from
+- When shopping on Amazon if buyers find a product that has an alternative from a black business a notification will pop up and buyers can check our extension for links to those products
+- Our extension has a list of business alternatives with links to their websites that fall in the same product category as the product the shopper is buying
+- For our project we used HTML/CSS and Javascript
+- You can read more about the project, challlenges we ran into while building it and future changes[here](https://docs.google.com/presentation/d/1SsXq68EMiDunt8VGsOBnhI-uVWWspX28yRIxlouO5MI/edit#slide=id.g8dba9aa359_1_393)
+- [Here](https://youtu.be/RQSi5_Lzzu8) is a demo.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![BlackShopsMatter](./assets/BlackShopsMatter.png)
